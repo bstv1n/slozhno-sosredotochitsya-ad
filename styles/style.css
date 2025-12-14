@@ -278,12 +278,6 @@ h2, h3 {
     box-sizing: border-box;
   }
   
-  .picture__container {
-    display: grid;
-    box-sizing: 100%;
-    gap: 20px;
-  }
-
   .image {
     object-position: center;
     object-fit: cover;
